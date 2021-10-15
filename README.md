@@ -2,6 +2,7 @@
 
 - train.csv - the training set
 - test.csv - the test set
+- prediction.csv - my predictions
 
 ## Model used:
 - `Linear Regression`
