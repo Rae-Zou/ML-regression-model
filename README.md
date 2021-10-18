@@ -4,6 +4,8 @@
 - test.csv - the test set
 - prediction.csv - my predictions
 
+Comment: datasets are from: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
 ## Model used:
 - `Linear Regression`
 - `RidgeCV`
