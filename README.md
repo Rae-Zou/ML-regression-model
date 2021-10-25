@@ -6,8 +6,11 @@
 
 Comment: datasets are from: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-## Model used:
+## Models used
 - `Linear Regression`
 - `RidgeCV`
 - `LassoCV`
 - `VotingRegressor`
+
+## Evaluation Metrics
+- Root Mean Square Error (RMSE) 
